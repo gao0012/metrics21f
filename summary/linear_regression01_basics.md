@@ -21,7 +21,10 @@
 
 ## Readings
 
-0. [Slides](../lectures/topic9-linear_regression.pdf)
+1. [Slides (Part I)](../lectures/topic9-linear_regression.pdf)
+2. [Slides (Part II)](../lectures/topic9-linear_regression02.pdf)
+3. [Slides (Part III)](../lectures/topic9-linear_regression03.pdf)
+
 
 
 1.	(Self-study) Simple Regression (one-variable case)
